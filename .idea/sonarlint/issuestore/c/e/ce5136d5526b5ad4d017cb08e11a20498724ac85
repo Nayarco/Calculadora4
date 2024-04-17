@@ -1,0 +1,12 @@
+
+„
+java:S2184"ACast one of the operands of this addition operation to a "float".(íÊºÏ8ñÂ¾ßî1J$463c0075-53a3-411c-a632-5b49add31767
+Œ
+java:S2184"DCast one of the operands of this subtraction operation to a "float".(¶¾©Íøÿÿÿÿ8ñÂ¾ßî1J$276470b3-1c27-4ebc-a878-0916d58fb583
+
+java:S2184"GCast one of the operands of this multiplication operation to a "float".(Şş™Àıÿÿÿÿ8òÂ¾ßî1J$19cec16a-0dda-4aed-92a4-1632b8cdc6d4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ìŞ²8òÂ¾ßî1J$1f5b2acb-96d1-419e-a4c1-08d3c54b07b7
+r	java:S106
+"+Replace this use of System.out by a logger.(äÊşÎùÿÿÿÿ8şÂ¾ßî1J$8a3e2765-1e31-4845-b76a-6a49812e1118
+m	java:S106"+Replace this use of System.out by a logger.(ÙÊĞş8ÿÂ¾ßî1J$e9d847c9-c904-4fdf-a4dd-a6ea7568d4e1
+l	java:S106"+Replace this use of System.out by a logger.(‰æË8ÿÂ¾ßî1J$9dde4a05-fb7b-4954-aa55-43892404237e
